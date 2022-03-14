@@ -2,8 +2,10 @@
 #include <stdlib.h>
 #include <time.h>
 
-/* Description: get a random number and print if positive, negative or zero
- * Return: 0 */
+/*
+ *  Description: get a random number and print if positive, negative or zero
+ * Return: 0 
+ */
 int main(void)
 {
 	int n;
