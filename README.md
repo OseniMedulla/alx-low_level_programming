@@ -1,1 +1,1 @@
-# alx-low_level_programming
+Getting to know variables, if, else, while
