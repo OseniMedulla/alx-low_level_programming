@@ -6,7 +6,7 @@
  * main - block
  * Description: prints a text according number
  * Return: 0
- * */
+ */
 int main(void)
 {
 	int n;
@@ -14,7 +14,7 @@ int main(void)
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-	m =n % 10;
+	m = n % 10;
 
 	if (m > 5)
 		printf("Last digit of %i is %i and is greater than 5\n", n, m);
