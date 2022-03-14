@@ -3,8 +3,8 @@
 #include <time.h>
 
 /**
- * main - Printing number
- *  Description: get a random number and print if positive, negative or zero
+ * main - printing number
+ *  Description: get a random number and print if it is positive, negative or zero
  * Return: 0 
  */
 int main(void)
@@ -13,8 +13,8 @@ int main(void)
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-	/* code */
 
+	
 	if (n > 0)
 		printf("%i is positive\n", n);
 	else if (n < 0)
