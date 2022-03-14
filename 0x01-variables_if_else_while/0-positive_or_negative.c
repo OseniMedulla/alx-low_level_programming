@@ -3,8 +3,8 @@
 #include <time.h>
 
 /**
- * main - printing number
- *  Description: get a random number and print if it is positive, negative or zero
+ * main - main block
+ *  Description: get a random number and print if positive, negative or zero
  * Return: 0 
  */
 int main(void)
