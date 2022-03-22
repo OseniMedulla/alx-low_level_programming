@@ -1,4 +1,4 @@
-de "main.h"
+#include "main.h"
 
 /**
  * _puts - function to print string
