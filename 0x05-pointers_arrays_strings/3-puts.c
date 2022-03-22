@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * puts - function to print string
+ * _puts - function to print string
  *
  * @str : string to be printed
  *
- * Return : void
+ * Return: void
  */
 
 void _puts(char *str)
