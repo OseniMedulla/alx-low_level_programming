@@ -5,7 +5,7 @@
  * argstostr - concatenate all arguments of your program with newline
  * @ac: argument count
  * @av: double pointer to array of strings passed to main
- * Return: Null if fail 
+ * Return: Null if fail
  */
 
 char *argstostr(int ac, char **av)
